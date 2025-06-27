@@ -4,19 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="050a0001-2ffa-4aa9-834a-56495c432b64" name="Changes" comment="new test">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_001/print_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_002/lab_001_keywords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_002/lab_002_variable_identifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_002/lab_003_multiplication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_002/lab_004_multiple_variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_002/lab_005_multiple_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_002/lab_006_math_function.py" afterDir="false" />
+    <list default="true" id="050a0001-2ffa-4aa9-834a-56495c432b64" name="Changes" comment="keyword, identifier, variable">
+      <change afterPath="$PROJECT_DIR$/pytestchapter_003/lab008_input_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_003/lab009_builtin_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_003/lab010_user_input_sum_of_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_003/lab011_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_003/lab012_string_convertions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_003/lab013_literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_003/lab014_escape_characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_003/lab015_ra_escape_character.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytestchapter_001/print_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestchapter_001/lab001_print_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytestchapter_002/lab_001_keywords.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestchapter_002/lab002_keywords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytestchapter_002/lab_002_variable_identifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestchapter_002/lab003_variable_identifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytestchapter_002/lab_003_multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestchapter_002/lab004_multiplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytestchapter_002/lab_004_multiple_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestchapter_002/lab005_multiple_variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytestchapter_002/lab_005_multiple_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestchapter_002/lab006_multiple_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytestchapter_002/lab_006_math_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestchapter_002/lab007_math_function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +37,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "unaisLearning"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/unaisLearning/Python_Selenium_new_learnings.git",
+    "accountId": "ccd82623-b84e-42f0-bdac-d41c36bde157"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -47,12 +63,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.lab_001_input_user.executor": "Run",
     "Python.lab_001_keywords.executor": "Run",
+    "Python.lab_002_builtin_functions.executor": "Run",
     "Python.lab_002_variable_identifier.executor": "Run",
     "Python.lab_003_multiplication.executor": "Run",
+    "Python.lab_003_user_input_sum_of_two_numbers.executor": "Run",
     "Python.lab_004_multiple_variable.executor": "Run",
+    "Python.lab_004_string.executor": "Run",
     "Python.lab_005_multiple_print.executor": "Run",
+    "Python.lab_005_string_convertions.executor": "Run",
+    "Python.lab_006_literals.executor": "Run",
     "Python.lab_006_math_function.executor": "Run",
+    "Python.lab_007_escape_characters.executor": "Run",
     "Python.print_function.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,8 +89,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lab_006_math_function">
-    <configuration name="lab_002_variable_identifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lab014_escape_characters">
+    <configuration name="lab010_user_input_sum_of_two_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_002" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_003" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_002/lab_002_variable_identifier.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_003/lab010_user_input_sum_of_two_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab_003_multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab011_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_002" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_003" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_002/lab_003_multiplication.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_003/lab011_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab_004_multiple_variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab012_string_convertions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_002" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_003" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_002/lab_004_multiple_variable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_003/lab012_string_convertions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab_005_multiple_print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab013_literals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_002" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_003" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_002/lab_005_multiple_print.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_003/lab013_literals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab_006_math_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab014_escape_characters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,11 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_002" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_003" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_002/lab_006_math_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_003/lab014_escape_characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab_006_math_function" />
-        <item itemvalue="Python.lab_005_multiple_print" />
-        <item itemvalue="Python.lab_004_multiple_variable" />
-        <item itemvalue="Python.lab_003_multiplication" />
-        <item itemvalue="Python.lab_002_variable_identifier" />
+        <item itemvalue="Python.lab014_escape_characters" />
+        <item itemvalue="Python.lab013_literals" />
+        <item itemvalue="Python.lab012_string_convertions" />
+        <item itemvalue="Python.lab011_string" />
+        <item itemvalue="Python.lab010_user_input_sum_of_two_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -210,11 +233,20 @@
       <option name="project" value="LOCAL" />
       <updated>1750611328793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="keyword, identifier, variable">
+      <option name="closed" value="true" />
+      <created>1750941454112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750941454112</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new test" />
-    <option name="LAST_COMMIT_MESSAGE" value="new test" />
+    <MESSAGE value="keyword, identifier, variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="keyword, identifier, variable" />
   </component>
 </project>
