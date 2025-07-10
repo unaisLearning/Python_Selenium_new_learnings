@@ -4,24 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="050a0001-2ffa-4aa9-834a-56495c432b64" name="Changes" comment="keywords, identifiers, data types, string, literals, escape charactors , problems">
-      <change afterPath="$PROJECT_DIR$/pytestchapter_003/task001_quatiant_and_reminder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab016_Unary_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab017_arithmatic operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab018_Modulo_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab019_comparison_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab020_power_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab021_div_quatiant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab022_not_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab023_not_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab024_logical_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab025_interview_question_operator1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab026_interview_question_operator2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab027_increment_descrement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab028_ternary_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab030_Find_area_of_the circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab031_task1_ifelse, club_program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestchapter_004_operators/lab32_task2_output check.py" afterDir="false" />
+    <list default="true" id="050a0001-2ffa-4aa9-834a-56495c432b64" name="Changes" comment="Day 7 -Functions part1, functions with and without arguments, with or without return">
+      <change afterPath="$PROJECT_DIR$/pytestchapter_008_functions_scope/lab062_global_local_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_008_functions_scope/lab063_inner_and_outer_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_008_functions_scope/lab064_decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_008_functions_scope/lab065_with_decorator_UI_after_before.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_008_functions_scope/lab066_without_decorators_ui_after_before.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_008_functions_scope/lab067_task1_right_triangle_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_008_functions_scope/lab068_task2_left_triangle_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_008_functions_scope/lab069_task3_inverted_lefttriangle_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_008_functions_scope/lab070_task4_pyramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_009_lambda/lab071_lambda_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_009_lambda/lab072_lambda_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_009_lambda/lab_073_lambda_even_and_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_010_list_set/lab074_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_010_list_set/lab075_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_010_list_set/lab076_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestchapter_010_list_set/lab077_task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,57 +61,97 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.lab016_Unary_Operator.executor": "Run",
-    "Python.lab019_power_operator.executor": "Run",
-    "Python.lab023_not_operator.executor": "Run",
-    "Python.lab025_interview_question_operator1.executor": "Run",
-    "Python.lab027_increment_descrement.executor": "Run",
-    "Python.lab028_ternary_operator.executor": "Run",
-    "Python.lab030_Find_area_of_the circle.executor": "Run",
-    "Python.lab031_task1_ifelse, club_program.executor": "Run",
-    "Python.lab32_task2_output check.executor": "Run",
-    "Python.lab_001_input_user.executor": "Run",
-    "Python.lab_001_keywords.executor": "Run",
-    "Python.lab_002_builtin_functions.executor": "Run",
-    "Python.lab_002_variable_identifier.executor": "Run",
-    "Python.lab_003_multiplication.executor": "Run",
-    "Python.lab_003_user_input_sum_of_two_numbers.executor": "Run",
-    "Python.lab_004_multiple_variable.executor": "Run",
-    "Python.lab_004_string.executor": "Run",
-    "Python.lab_005_multiple_print.executor": "Run",
-    "Python.lab_005_string_convertions.executor": "Run",
-    "Python.lab_006_literals.executor": "Run",
-    "Python.lab_006_math_function.executor": "Run",
-    "Python.lab_007_escape_characters.executor": "Run",
-    "Python.lab_017_arithmatic operators.executor": "Run",
-    "Python.lab_018_Modulo_operator.executor": "Run",
-    "Python.lab_019_comparison_operator.executor": "Run",
-    "Python.lab_019_div_quatiant.executor": "Run",
-    "Python.lab_019_logical_operator.executor": "Run",
-    "Python.lab_019_not_operator.executor": "Run",
-    "Python.print_function.executor": "Run",
-    "Python.task002_quatiant_and_reminder.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/unais/PycharmProjects/PythonProject2/pytestchapter_004_operators"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.lab016_Unary_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab019_power_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab023_not_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab025_interview_question_operator1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab027_increment_descrement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab028_ternary_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab030_Find_area_of_the circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab031_task1_ifelse, club_program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab033_task3_findmax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab034_ifelse_with_edgecasehandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab035_task1_3number_max.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab036_task3_gradesystem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab037_task4_triangle_shape.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab039_forloop_range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab040_forloop2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab041_whileloop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab042_for_break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab043_for_loop_with_ifelse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab044_forloop_pass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab045_forloop_mode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab050_forloop_continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab053_pass_vs_continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab054_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab055_functions_pass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab056_ function_inside_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab057_ function_types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab058_task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab059_task2_calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab060_unlimited_arguments_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab061_unlimited_arg_example2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab062_global_local_variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab063_inner_and_outer_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab064_decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab065_with_decorator_UI_after_before.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab066_without_decorators_ui_after_before.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab067_task1_right_triangle_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab069_task3_inverted_lefttriangle_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab069_task3_inverted_triangle_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab070_task4_pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab071_lambda_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab072_lambda_simple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab074_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab075_tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab076_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab077_task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab32_task2_output check.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_001_input_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_001_keywords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_002_builtin_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_002_variable_identifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_003_multiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_003_user_input_sum_of_two_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_004_multiple_variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_004_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_005_multiple_print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_005_string_convertions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_006_literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_006_math_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_007_escape_characters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_017_arithmatic operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_018_Modulo_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_019_comparison_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_019_div_quatiant.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_019_logical_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_019_not_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_073_lambda_even_and_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task002_quatiant_and_reminder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/unais/PycharmProjects/PythonProject2/pytestchapter_004_operators&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pytestchapter_004_operators" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pytestchapter_009_lambda" />
+      <recent name="$PROJECT_DIR$/pytestchapter_008_functions_scope" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lab033_task3_findmax">
-    <configuration name="lab028_ternary_operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lab077_task1">
+    <configuration name="lab074_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_004_operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_010_list_set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_004_operators/lab028_ternary_operator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_010_list_set/lab074_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab030_Find_area_of_the circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab075_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,11 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_004_operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_010_list_set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_004_operators/lab030_Find_area_of_the circle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_010_list_set/lab075_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab031_task1_ifelse, club_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab076_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,11 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_004_operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_010_list_set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_004_operators/lab031_task1_ifelse, club_program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_010_list_set/lab076_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab033_task3_findmax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab077_task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +226,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_004_operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_010_list_set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_004_operators/lab033_task3_findmax.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_010_list_set/lab077_task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab32_task2_output check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab_073_lambda_even_and_add" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_004_operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestchapter_009_lambda" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_004_operators/lab32_task2_output check.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestchapter_009_lambda/lab_073_lambda_even_and_add.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab033_task3_findmax" />
-        <item itemvalue="Python.lab031_task1_ifelse, club_program" />
-        <item itemvalue="Python.lab32_task2_output check" />
-        <item itemvalue="Python.lab030_Find_area_of_the circle" />
-        <item itemvalue="Python.lab028_ternary_operator" />
+        <item itemvalue="Python.lab077_task1" />
+        <item itemvalue="Python.lab076_set" />
+        <item itemvalue="Python.lab075_tuple" />
+        <item itemvalue="Python.lab074_list" />
+        <item itemvalue="Python.lab_073_lambda_even_and_add" />
       </list>
     </recent_temporary>
   </component>
@@ -279,13 +318,57 @@
       <option name="project" value="LOCAL" />
       <updated>1751052463218</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Day 4 - Operators and Tasks">
+      <option name="closed" value="true" />
+      <created>1751303170484</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751303170484</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Day 5 -Condition, if else statement">
+      <option name="closed" value="true" />
+      <created>1751464198640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751464198640</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Day 6 -Loops, for llop, while loop, continue, pass">
+      <option name="closed" value="true" />
+      <created>1751542610632</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751542610632</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Day 6 -Loops, for llop, while loop, continue, pass">
+      <option name="closed" value="true" />
+      <created>1751542773374</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1751542773377</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Day 7 -Functions part1, functions with and without arguments, with or without return">
+      <option name="closed" value="true" />
+      <created>1751632879348</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1751632879348</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new test" />
     <MESSAGE value="keyword, identifier, variable" />
     <MESSAGE value="keywords, identifiers, data types, string, literals, escape charactors , problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="keywords, identifiers, data types, string, literals, escape charactors , problems" />
+    <MESSAGE value="Day 4 - Operators and Tasks" />
+    <MESSAGE value="Day 5 -Condition, if else statement" />
+    <MESSAGE value="Day 6 -Loops, for llop, while loop, continue, pass" />
+    <MESSAGE value="Day 7 -Functions part1, functions with and without arguments, with or without return" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 7 -Functions part1, functions with and without arguments, with or without return" />
   </component>
 </project>
